@@ -3,7 +3,7 @@
 /**
  * Package for Calculate task.
  *
- * @author Malanchenko (msn85@ukr.net)
+ * @author SergiiMalanchenko (msn85@ukr.net)
  * @version $Id$
  * @since 01.12.2017
  */
