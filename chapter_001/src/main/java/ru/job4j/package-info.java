@@ -1,8 +1,8 @@
 /**
-* Package for calculate task.
-*
-* @author Petr Arsentev (parsentev@yandex.ru)
-* @version $Id$
-* @since 0.1
+ * Package for Calculate task.
+ *
+ * @author Sergii Malamchenko (msn85@ukr.net)
+ * @version $Id$
+ * @since 21.12.2017
 */
 package ru.job4j;
